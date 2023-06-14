@@ -1,0 +1,10 @@
+.image_container {
+}
+
+.image_container_even img {
+  border: 1px solid red;
+}
+
+.image_container_odd img {
+  border: 1px solid green;
+}
