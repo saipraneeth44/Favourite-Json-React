@@ -8,8 +8,7 @@ function Card_2(props) {
     employer,
     jobTitle,
     careerUrl,
-    data,
-    setData,
+
     isFav,
     id,
     handleFav,
